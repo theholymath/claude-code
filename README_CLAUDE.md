@@ -1,4 +1,15 @@
-  Example Flow:
+# CLAUDE Workflow
+
+This will change constantly I am sure.
+
+To clone into a repo (beware the README!)
+```bash
+git clone <repository_url> .
+```  
+
+## Usage
+
+Example Flow:
 
   1. You run: /prompt "create a machine learning model for anomaly detection"
   2. prompt.md reads the next.md template
